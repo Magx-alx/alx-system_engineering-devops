@@ -1,4 +1,2 @@
 #!/bin/bash
 Script executed from : /alx-system_engineering-devops/0x00-shell_basics
-BASEDIR=$(dirname $0)
-Script location: ${BASEDIR}
