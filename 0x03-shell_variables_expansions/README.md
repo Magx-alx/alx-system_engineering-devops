@@ -1,2 +1,2 @@
 #!/bin/bash
-te shell variable expansion project
+the shell variable expansion project
